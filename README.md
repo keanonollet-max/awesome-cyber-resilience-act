@@ -39,6 +39,7 @@
 - [sbomify](https://sbomify.com) - SBOM management and sharing platform with CRA workflows.
 - [Dependency-Track](https://dependencytrack.org) - OWASP open-source component analysis platform.
 - [OSV.dev](https://osv.dev) - Open vulnerability database with a free API for matching components against known CVEs.
+- [fixdossier](https://github.com/itulo/fixdossier) - Open-source GitHub Action that builds a dated security-fix record and a SUPPORT.md support-period policy from GitHub history.
 
 ## SBOM Standards & Tooling
 
